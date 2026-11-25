@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LIVE_PORTFOLIO_URL">🌐 Live Portfolio</a> •
-  <a href="YOUR_GITHUB_URL">💻 GitHub</a> •
-  <a href="YOUR_LINKEDIN_URL">🔗 LinkedIn</a>
+  <a href="rohit-portfolio-delta-three.vercel.app">🌐 Live Portfolio</a> •
+  <a href="https://github.com/Rohit-lpu-ai">💻 GitHub</a> •
+  <a href="www.linkedin.com/in/ai-rohit-sharma">🔗 LinkedIn</a>
 </p>
 
 ---
