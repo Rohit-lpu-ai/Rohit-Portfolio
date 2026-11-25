@@ -9,9 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="rohit-portfolio-delta-three.vercel.app">🌐 Live Portfolio</a> •
-  <a href="https://github.com/Rohit-lpu-ai">💻 GitHub</a> •
-  <a href="www.linkedin.com/in/ai-rohit-sharma">🔗 LinkedIn</a>
+ 
+<p align="center">
+  <a href="https://rohit-portfolio-delta-three.vercel.app/" target="_blank">🌐 Live Portfolio</a> •
+  <a href="https://github.com/Rohit-lpu-ai" target="_blank">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/rohit-sharma-b3985b323/" target="_blank">🔗 LinkedIn</a>
+</p>
+
 </p>
 
 ---
